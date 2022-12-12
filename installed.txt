@@ -1,0 +1,1 @@
+;5;6;4;3;2;1;pyparsing;pytz;six;python-dateutil;numpy;pandas;linux-api-headers;tzdata;filesystem;glibc;gcc-libs;ncurses;readline;bash;libarchive;curl;gpgme;pacman-mirrorlist;gettext;gawk;coreutils;gnupg;grep;pacman;

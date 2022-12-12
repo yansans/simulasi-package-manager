@@ -1,0 +1,6 @@
+bash;glibc;libarchive;curl;gpgme
+;pacman-mirrorlist
+;gettext
+;gawk;coreutils
+;gnupg
+;grep
